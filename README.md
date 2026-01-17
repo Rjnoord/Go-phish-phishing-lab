@@ -26,3 +26,11 @@ This lab demonstrates the deployment and use of the GoPhish framework to conduct
 - SMTP / Email concepts
 - Web-based security dashboards
 
+### GoPhish Dashboard
+![GoPhish Dashboard](Screenshots/01-gophish-dashboard.png)
+
+### Phishing Email Template
+![Email Template](Screenshots/02-email-template.png)
+
+### Landing Page
+![Landing Page](Screenshots/03-landing-page.png)
