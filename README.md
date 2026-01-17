@@ -35,6 +35,6 @@ This lab demonstrates the deployment and use of the GoPhish framework to conduct
 ![Email Template](02-email-template.png)
 
 ### Landing Page
-![Landing Page](
+![Landing Page](03-%20landing-page.png)
 
 
