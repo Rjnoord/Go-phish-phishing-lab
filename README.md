@@ -32,8 +32,9 @@ This lab demonstrates the deployment and use of the GoPhish framework to conduct
 ![Gophish Dashboard](01-gophish-dashboard.png)
 
 ### Phishing Email Template
-![Email Template](
+![Email Template](02-email-template.png)
 
 ### Landing Page
+
 
 
